@@ -22,4 +22,5 @@ In this Excel dashboard project, we've incorporated Buttons, Filters, and Slicer
 * Casualties have declined in 2022 as compared to the previous year.
 * The most common road type for road accidents is a single carriageway.
 * The most common weather condition for road accidents is dry.
-* The most common gender for road accident casualties is male.
+* The most common Area for road accident is Urban.
+* The most common Light condition for road accident is Daylight.
